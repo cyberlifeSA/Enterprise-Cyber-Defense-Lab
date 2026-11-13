@@ -1,5 +1,5 @@
 
-# SOC Infraestrucure & Configuration
+# SOC Infraestructure & Configuration
 
 ![](Images/Pasted%20image%2020261113140629.png)
 
