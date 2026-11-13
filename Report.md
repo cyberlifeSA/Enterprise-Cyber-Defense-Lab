@@ -1,23 +1,6 @@
 
-```bash
-                         ATTACK
-                            │
-                           Kali
-                            │
-                         INTERNET
-                            │
-                            │
-                       [ FortiGate ]
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-          SERVERS         USERS          SOC
-              │             │             │
-       ┌──────┴──────┐      │             │
-       │             │      │             │
-   AD/DNS          Wazuh   Windows 11    Windows 11
- Windows Server    Ubuntu 64             SOC Analyst
-```
+![](Images/Pasted%20image%2020261113140629.png)
+
 
 ```
 VMnet1 → 192.168.219.0/24

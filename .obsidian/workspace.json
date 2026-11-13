@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Report"
             }
-          },
-          {
-            "id": "f61f0cdc9e7edd59",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.15.0"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,20 +188,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f61f0cdc9e7edd59",
+  "active": "c24b1c0438daa687",
   "lastOpenFiles": [
-    "Images/WAZUH-SIEM/Pasted image 20260920120322.png",
-    "Images/WAZUH-SIEM/Pasted image 20260920113555.png",
+    "Images/Pasted image 20261113140629.png",
     "Report.md",
+    "Images/WAZUH-SIEM/Pasted image 20260920120322.png",
+    "Images/WAZUH-SIEM/project.2.0.webp",
     "Images/VICTIM01-Point of Access/Pasted image 20260920105810.png",
+    "Images/SOC01-Monitoreo/Pasted image 20260828151634.png",
     "Images/KALI01-Atacante/Pasted image 20260916143157.png",
-    "Images/KALI01-Atacante/Pasted image 20260916142811.png",
-    "Images/KALI01-Atacante/Pasted image 20260916141455.png",
-    "Images/KALI01-Atacante/Pasted image 20260916141431.png",
-    "Images/KALI01-Atacante/Pasted image 20260916141404.png",
-    "Images/KALI01-Atacante/Pasted image 20260916141337.png",
-    "Images/KALI01-Atacante/Pasted image 20260916140135.png",
-    "Images/KALI01-Atacante/Pasted image 20260916133524.png",
+    "Images/HOST-VMs/Pasted image 20260902133453.png",
+    "Images/FW01-Firewall/Pasted image 20260912181039.png",
+    "Images/FW01-Firewall/Pasted image 20260912181241.png",
+    "Images/FW01-Firewall/Pasted image 20260913153314.png",
     "Images/KALI01-Atacante",
     "Images/HOST-VMs",
     "Images/FW01-Firewall",
