@@ -11,16 +11,19 @@ Windows 7        → 192.168.219.30
 Windows 11 SOC   → 192.168.219.40
 ```
 
+```
 VMnet1 192.168.219.0
-- Windows Server 2012
-- Ubuntu Server
-- Windows 7 x64
-- Windows 11 x64
-VMnet2 172.16.1.0
-- Kali Linux
-VMnet1 y VMnet8
--  FortiOS
+- Windows Server 2012 - AD
+- Ubuntu Server - WAZUH
+- Windows 11 x64 - Client
+- Windows 11 x64 - SOC Monitor
 
+VMnet2 172.16.1.0
+- Kali Linux - Attack
+
+VMnet1 y VMnet8
+-  FortiOS - FW
+```
 
 
 # Windows Server 2012
