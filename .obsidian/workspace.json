@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "a973bdb47e7dffb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a83015bcd57e6e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c24b1c0438daa687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Report"
+            }
+          },
+          {
+            "id": "f61f0cdc9e7edd59",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.15.0"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acc116cc929975e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc77c6b53ed69b1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e1ca6de0e6b1b35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "50092fb4ddad9f7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "92deac1f0d6eec0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aaf6d07bf6ebe064",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bfe0580020f8ed2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0b375a5f5762694",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "05d5e0fa7dd339a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "d1e6a26708edd9a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "86cb80ba7783ccf1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "a65779149dee2427",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Report.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "f61f0cdc9e7edd59",
+  "lastOpenFiles": [
+    "Images/WAZUH-SIEM/Pasted image 20260920120322.png",
+    "Images/WAZUH-SIEM/Pasted image 20260920113555.png",
+    "Report.md",
+    "Images/VICTIM01-Point of Access/Pasted image 20260920105810.png",
+    "Images/KALI01-Atacante/Pasted image 20260916143157.png",
+    "Images/KALI01-Atacante/Pasted image 20260916142811.png",
+    "Images/KALI01-Atacante/Pasted image 20260916141455.png",
+    "Images/KALI01-Atacante/Pasted image 20260916141431.png",
+    "Images/KALI01-Atacante/Pasted image 20260916141404.png",
+    "Images/KALI01-Atacante/Pasted image 20260916141337.png",
+    "Images/KALI01-Atacante/Pasted image 20260916140135.png",
+    "Images/KALI01-Atacante/Pasted image 20260916133524.png",
+    "Images/KALI01-Atacante",
+    "Images/HOST-VMs",
+    "Images/FW01-Firewall",
+    "Images/VICTIM01-Point of Access",
+    "Images/windows7",
+    "Images/WAZUH-SIEM",
+    "Images/SOC01-Monitoreo",
+    "Images/WAZUH01-Server",
+    "Images/AD-Windows Server 2012",
+    "2026-08-16.md",
+    "Report"
+  ]
+}
