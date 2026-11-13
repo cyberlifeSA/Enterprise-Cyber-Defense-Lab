@@ -1289,24 +1289,6 @@ Si quisiéramos hacer una enumeración mas fuerte podríamos hacer uso de herram
 
 -----
 
-**Personal Note**
-1. ✅ AD
-2. ✅ Wazuh Server
-3. ✅ Windows SOC
-4. ✅ CLIENT01
-5. ✅ Wazuh Agent
-6. ✅ Evento 4624
-7. ✅ Sysmon
-8. ✅ PowerShell Logging
-9. ✅ Comprobar que Wazuh recibe esa telemetría
-10. ✅ Kali
-11. ✅ Ataques controlados
-12. ⏭️ Investigación SOC L1
-13. ⏭️ Wazuh Reglas
-14. ⏭️ FortiOS
-
-`sudo /var/ossec/bin/agent_control -l` = comando para ver agentes activos o no , ejecutar en ubuntu si
-
 AD01       → VMnet1
 WAZUH01    → VMnet1
 SOC01      → VMnet1
